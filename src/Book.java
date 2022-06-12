@@ -1,5 +1,4 @@
 public class Book {
-    //имя автор год публикации
     private String bookName;
     private Author author;
     private int publishingYear;
